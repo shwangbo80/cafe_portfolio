@@ -1,0 +1,94 @@
+/* colors */
+/*  Dark Blue: #1a535c
+    Light Blue: #4ecdc4
+    White: #f7fff7
+    Red: #ff6b6b
+    Yellow: #ffe66d */
+i {
+    font-size: 25px;
+}    
+
+.container-fluid {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.bg-blue {
+    background-color: #1a535c; 
+}
+    
+.bg-light-blue {
+    background-color: #4ecdc4;
+}
+
+.bg-white {
+    background-color: #f7fff7;
+}
+
+.bg-red {
+    background-color: #ff6b6b;
+}
+
+.bg-yellow {
+    background-color: #ffe66d;
+}
+
+.text-blue {
+    color: #1a535c; 
+}
+    
+.text-light-blue {
+    color: #4ecdc4;
+}
+
+.text-white {
+    color: #f7fff7;
+}
+
+.text-red {
+    color: #ff6b6b;
+}
+
+.text-yellow {
+    color: #ffe66d;
+}
+
+.hero-container {
+height: 550px;
+padding-top: 75px;
+padding-bottom: 75px;
+}
+
+.contact-container {
+    height: 400px;
+}
+
+.full-container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bg-yellow {
+    background-color: #ffe66d;
+}
+
+.row-container {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.half-bg {
+    height: 500px;
+}
+
+.footer-logo {
+    width: 35px;
+}
+
+footer {
+    position: absolute;
+    width: 100%;
+}
+
