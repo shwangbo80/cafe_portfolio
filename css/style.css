@@ -1,11 +1,9 @@
-/* colors */
-/*  Dark Blue: #1a535c
-    Light Blue: #4ecdc4
-    White: #f7fff7
-    Red: #ff6b6b
-    Yellow: #ffe66d */
 i {
     font-size: 25px;
+}
+
+a {
+    cursor: pointer;
 }
 
 .container-fluid {
@@ -59,6 +57,10 @@ i {
     padding-bottom: 75px;
 }
 
+.sub-container {
+    height: 400px;
+}
+
 .contact-container {
     height: 400px;
 }
@@ -91,13 +93,7 @@ i {
     position: absolute;
     width: 100%;
 }
-
-a {
-    cursor: pointer;
-}
-
 /* heart button */
-
 .fa-heart-o {
     color: darkgray;
     cursor: pointer;
@@ -109,5 +105,8 @@ a {
     cursor: pointer;
     padding-right: 10px;
 }
-
 /* heart button */
+
+.inputLg {
+    font-size: 25px;
+}
