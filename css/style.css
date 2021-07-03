@@ -91,3 +91,23 @@ i {
     position: absolute;
     width: 100%;
 }
+
+a {
+    cursor: pointer;
+}
+
+/* heart button */
+
+.fa-heart-o {
+    color: darkgray;
+    cursor: pointer;
+    padding-right: 10px;
+}
+
+.fa-heart {
+    color: red;
+    cursor: pointer;
+    padding-right: 10px;
+}
+
+/* heart button */
