@@ -6,7 +6,7 @@
     Yellow: #ffe66d */
 i {
     font-size: 25px;
-}    
+}
 
 .container-fluid {
     margin-left: 0px;
@@ -14,9 +14,9 @@ i {
 }
 
 .bg-blue {
-    background-color: #1a535c; 
+    background-color: #1a535c;
 }
-    
+
 .bg-light-blue {
     background-color: #4ecdc4;
 }
@@ -34,9 +34,9 @@ i {
 }
 
 .text-blue {
-    color: #1a535c; 
+    color: #1a535c;
 }
-    
+
 .text-light-blue {
     color: #4ecdc4;
 }
@@ -54,9 +54,9 @@ i {
 }
 
 .hero-container {
-height: 550px;
-padding-top: 75px;
-padding-bottom: 75px;
+    height: 550px;
+    padding-top: 75px;
+    padding-bottom: 75px;
 }
 
 .contact-container {
@@ -92,3 +92,10 @@ footer {
     width: 100%;
 }
 
+a,
+a:hover,
+a:focus,
+a:active {
+    text-decoration: none;
+    color: inherit;
+}
