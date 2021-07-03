@@ -87,15 +87,7 @@ i {
     width: 35px;
 }
 
-footer {
+.footer-fix {
     position: absolute;
     width: 100%;
-}
-
-a,
-a:hover,
-a:focus,
-a:active {
-    text-decoration: none;
-    color: inherit;
 }
